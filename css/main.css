@@ -18,10 +18,12 @@
 }
 
 .puntito {
-	width: 1px;
-	height: 1px;
-	border-radius: 5px;
-	background-color: black;
+	width: 10px;
+	height: 10px;
+	border-radius: 15%;
+	border-radius: 15%
+	border: 1px solid white;
+	background-color: white;
 }
 
 #mediaCancha {
