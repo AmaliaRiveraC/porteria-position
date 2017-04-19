@@ -1,0 +1,33 @@
+#cancha {
+	background-color: green;
+	width: 900px;
+	height: 400px;
+}
+
+#borde {
+	border: 1px solid white;
+	width: 850px;
+	height: 350px;
+
+}
+
+.porteria {
+	border: .5px solid white;
+	width: 100px;
+	height: 200px;
+}
+
+.puntito {
+	width: 1px;
+	height: 1px;
+	border-radius: 5px;
+	background-color: black;
+}
+
+#mediaCancha {
+	border-radius: 50%;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	border: 1px solid white;
+}
